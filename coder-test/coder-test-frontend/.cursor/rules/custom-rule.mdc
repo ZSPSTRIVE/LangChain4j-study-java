@@ -1,0 +1,4 @@
+---
+description: 禁止帮我使用 Sword 图标，Element Plus 中不存在这个图标，如果需要使用，替换为 KnifeFork
+alwaysApply: false
+---
